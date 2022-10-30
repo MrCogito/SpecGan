@@ -8,6 +8,11 @@ and develop it for learning purpose.
  
 
 ## To do
+Model: 
 - Add TensorBoard
 - Add results and checkpoints for (drums, female, male)
 - Work with learning rate
+
+
+Data preparation: 
+- Add section to convert generated spectrogram to audio 
