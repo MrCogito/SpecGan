@@ -8,11 +8,13 @@ and develop it for learning purpose.
  
 
 ## To do
+ - Add project description to readme
+
 Model: 
-- Add TensorBoard
+- Add images to tensorboard
 - Add results and checkpoints for (drums, female, male)
-- Work with learning rate
+- Work with learning rate (no sure if needed)
 
 
 Data preparation: 
-- Add section to convert generated spectrogram to audio 
+
