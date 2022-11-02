@@ -11,7 +11,6 @@ and develop it for learning purpose.
  - Add project description to readme
 
 Model: 
-- Add images to tensorboard
 - Add results and checkpoints for (drums, female, male)
 - Work with learning rate (no sure if needed)
 
