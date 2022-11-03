@@ -5,15 +5,19 @@ Spectrogram generator using GANs
 I started this project as part of my Bachelor Thesis:
 "Generator of graphic representations of phonic signals using GAN neural networks"
 and develop it for learning purpose. 
+Based on DCGAN with tf: https://www.tensorflow.org/tutorials/generative/dcgan
+-add noise to disc 
+-change kernel to 1dimention 
+-normalize to 0-1
  
 
 ## To do
  - Add project description to readme
 
 Model: 
+- change strides and 
 - Add results and checkpoints for (drums, female, male)
 - Work with learning rate (no sure if needed)
-
 
 Data preparation: 
 
