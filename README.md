@@ -18,7 +18,7 @@ Based on DCGAN with tf: https://www.tensorflow.org/tutorials/generative/dcgan
  - Add project description to readme
 
 Model: 
-- change strides and 
+- Add dynamic folder creation for checkpoints and generated samples
 - Add results and checkpoints for (drums, female, male)
 - Work with learning rate (no sure if needed)
 
