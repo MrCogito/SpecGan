@@ -9,6 +9,9 @@ Based on DCGAN with tf: https://www.tensorflow.org/tutorials/generative/dcgan
 -add noise to disc 
 -change kernel to 1dimention 
 -normalize to 0-1
+ Datasets: 
+ https://www.hexawe.net/mess/200.Drum.Machines/
+ vctk corpus
  
 
 ## To do
