@@ -5,6 +5,8 @@ Spectrogram generator using GANs
 I started this project as part of my Bachelor Thesis:
 "Generator of graphic representations of phonic signals using GAN neural networks"
 and develop it for learning purpose. 
+Goal of this project is to take advantage of CNN in generating new synthetic audio clips. To achieve this, dataset clips and generated clips are spectrograms or mel spectrograms. 
+Project could potentially be used to in audio data augumentation process, to generate sounds used in games/movies/simulations. 
 
 ## Model
 Model is based on https://www.tensorflow.org/tutorials/generative/dcgan. 
@@ -45,7 +47,6 @@ To analyze quality of generated audio, function converting mel/spectrograms to a
 ## To do 
 - Code cleaning/refactor
 - Finish training on vctk female dataset
-
 
 
 
