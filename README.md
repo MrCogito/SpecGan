@@ -44,9 +44,5 @@ To track loss function tensorboard was added. Althought loss fucntion is less us
 
 To analyze quality of generated audio, function converting mel/spectrograms to audio was implemented using librosa. 
 
-## To do 
-- Code cleaning/refactor
-- Finish training on vctk female dataset
-
 
 
